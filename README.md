@@ -1,7 +1,8 @@
 # recipe-app
  A web application to create and store recipes. Build with React, Redux, Express and MongoDB.
  
- [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
  
 
  
